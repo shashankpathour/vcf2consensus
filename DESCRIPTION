@@ -1,0 +1,13 @@
+Package: vcf2consensus
+Type: Package
+Title: Generates consensus sequence from VCF files 
+Version: 0.1.0
+Author: Haritha Bollinedi, Shashank PR, Vivek Mamillapalli
+Maintainer: vivek5313@gmail.com
+Description: More about what it does (maybe more than one line)
+With the advancement of genome sequencing chemistries and reduced costs, re-sequencing is being practiced quite frequently in many labs generating large volumes of variant information. 
+VCF2Consensus package enables parsing of VCF files containing SNP and indel information and generates consensus sequence files from large number of VCF files
+License: Open Source
+Encoding: UTF-8
+
+ssss
